@@ -1,4 +1,4 @@
-Sistemas-Operativos
-===================
+SO_UBA
+======
 
-UBA - Operating Systems
+Repositorio para tps de SO

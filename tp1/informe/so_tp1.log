@@ -1,0 +1,341 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.16)  22 APR 2014 20:53
+entering extended mode
+ %&-line parsing enabled.
+**so_tp1.tex
+(./so_tp1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, spanish, galician, catalan, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen109
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen110
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks17
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks18
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
+Package: natbib 2009/07/16 8.31 (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count108
+)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip48
+\f@ncyO@elh=\skip49
+\f@ncyO@erh=\skip50
+\f@ncyO@olh=\skip51
+\f@ncyO@orh=\skip52
+\f@ncyO@elf=\skip53
+\f@ncyO@erf=\skip54
+\f@ncyO@olf=\skip55
+\f@ncyO@orf=\skip56
+) (./so_tp1.aux)
+\openout1 = `so_tp1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen118
+\scratchbox=\box30
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen119
+\MPnumerator=\count113
+\everyMPtoPDFconversion=\toks22
+)
+\c@lstlisting=\count114
+ <images/DC.png, id=1, 802.9197pt x 287.6346pt>
+File: images/DC.png Graphic file (type png)
+ <use images/DC.png>
+<images/UBA.jpg, id=3, 233.4321pt x 233.9139pt>
+File: images/UBA.jpg Graphic file (type jpg)
+ <use images/UBA.jpg>
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 75.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/DC.png> <./images
+/UBA.jpg>] (./so_tp1.toc)
+\tf@toc=\write3
+\openout3 = `so_tp1.toc'.
+
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 83.
+
+[2]
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 91.
+
+[3] (./ejercicio1.tex) (./ejercicio2.tex
+<images/ej2_1.png, id=20, 1030.85126pt x 157.58875pt>
+File: images/ej2_1.png Graphic file (type png)
+ <use images/ej2_1.png>
+<images/ej2_2.png, id=21, 1030.85126pt x 187.70125pt>
+File: images/ej2_2.png Graphic file (type png)
+ <use images/ej2_2.png>
+<images/ej2_3.png, id=22, 1030.85126pt x 187.70125pt>
+File: images/ej2_3.png Graphic file (type png)
+ <use images/ej2_3.png>)
+(./ejercicio3.tex) (./ejercicio4.tex
+<images/ej4_1.png, id=23, 1030.85126pt x 187.70125pt>
+File: images/ej4_1.png Graphic file (type png)
+ <use images/ej4_1.png>
+<images/ej4_2.png, id=24, 1030.85126pt x 187.70125pt>
+File: images/ej4_2.png Graphic file (type png)
+ <use images/ej4_2.png>)
+(./ejercicio5.tex
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 1.
+
+[4 <./images/ej2_1.png (PNG copy)> <./images/ej2_2.png (PNG copy)> <./images/ej
+2_3.png (PNG copy)>]) (./ejercicio6.tex) (./ejercicio7.tex
+<images/TH.jpg, id=28, 562.1pt x 421.575pt>
+File: images/TH.jpg Graphic file (type jpg)
+ <use images/TH.jpg>
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 14.
+
+[5 <./images/ej4_1.png (PNG copy)> <./images/ej4_2.png (PNG copy)>]
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 14.
+
+[6 <./images/TH.jpg>] <images/fair.jpg, id=37, 562.1pt x 421.575pt>
+File: images/fair.jpg Graphic file (type jpg)
+
+<use images/fair.jpg>) (./ejercicio8.tex
+<images/ej8_RR.png, id=38, 1030.85126pt x 217.81375pt>
+File: images/ej8_RR.png Graphic file (type png)
+ <use images/ej8_RR.png>
+<images/ej8_RR2.png, id=39, 1030.85126pt x 217.81375pt>
+File: images/ej8_RR2.png Graphic file (type png)
+
+<use images/ej8_RR2.png>) (./ejercicio9.tex
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 1.
+
+[7 <./images/fair.jpg>] <images/lote2.png, id=44, 1030.85126pt x 247.92625pt>
+File: images/lote2.png Graphic file (type png)
+
+<use images/lote2.png>
+<images/lote2fcfs.png, id=45, 1030.85126pt x 247.92625pt>
+File: images/lote2fcfs.png Graphic file (type png)
+
+<use images/lote2fcfs.png>
+<images/lote2rr.png, id=46, 1030.85126pt x 247.92625pt>
+File: images/lote2rr.png Graphic file (type png)
+
+<use images/lote2rr.png>
+<images/lote2rr2.png, id=47, 1030.85126pt x 247.92625pt>
+File: images/lote2rr2.png Graphic file (type png)
+
+<use images/lote2rr2.png>
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+) (./ejercicio10.tex
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 1.
+
+[8 <./images/ej8_RR.png (PNG copy)> <./images/ej8_RR2.png (PNG copy)> <./images
+/lote2.png (PNG copy)>]
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 1.
+
+[9 <./images/lote2fcfs.png (PNG copy)> <./images/lote2rr.png (PNG copy)> <./ima
+ges/lote2rr2.png (PNG copy)>]
+<images/lote.png, id=54, 1030.85126pt x 247.92625pt>
+File: images/lote.png Graphic file (type png)
+ <use images/lote.png>
+<images/lote3.png, id=55, 1030.85126pt x 187.70125pt>
+File: images/lote3.png Graphic file (type png)
+ <use images/lote3.png>
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ­ in font cmr10!
+)
+(./apendicelotes.tex
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 3.
+
+[10 <./images/lote.png (PNG copy)> <./images/lote3.png (PNG copy)>]
+(../codigo/experimentos/ej2.tsk) (../codigo/experimentos/ej4.tsk)
+(../codigo/ej7.tsk) (../codigo/experimentos/ej8/tests_roundrobin.tsk)
+(../codigo/experimentos/lote_edf2.tsk) (../codigo/experimentos/lote_edf2.tsk
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 3.
+
+[11]) (../codigo/lote_edf.tsk) (../codigo/lote_edf3.tsk))
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 113.
+
+[12] (./so_tp1.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3291 strings out of 494999
+ 43161 string characters out of 1180816
+ 116808 words of memory out of 3000000
+ 6413 multiletter control sequences out of 15000+50000
+ 5911 words of font info for 22 fonts, out of 3000000 for 9000
+ 54 hyphenation exceptions out of 8191
+ 35i,12n,43p,571b,1518s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+
+Output written on so_tp1.pdf (12 pages, 1032781 bytes).
+PDF statistics:
+ 88 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+

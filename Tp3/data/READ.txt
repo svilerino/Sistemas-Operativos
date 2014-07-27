@@ -1,0 +1,1 @@
+Usar get_data.sh para bajar los datos
